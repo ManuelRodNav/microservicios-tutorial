@@ -1,0 +1,7 @@
+spring:
+    application:
+     name: motomicroservicios
+    cloud:
+        confing:
+        enabled: true
+        uri: http://localhost:8081
